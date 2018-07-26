@@ -15,6 +15,13 @@ function go() {
     animals.push(new animal("lions","scary"));
     animals.push(new animal("giraffe","tall"));
     animals.push(new animal("shark","also scarry"));
+    animals.push(new animal("Tiger","super cool super dangerous"));
+    animals.push(new animal("Elephants","one of my favorite animals"));
+    animals.push(new animal("Bat","uses sonar"));
+    animals.push(new animal("Deer","very common in Ohio"));
+    animals.push(new animal("Rabbit","small furry creature"));
+    animals.push(new animal("squirrel","hides nuts in the winter"));
+    animals.push(new animal("Dolphin","super smooth super fun"));
     
     //populates the select list
     for(var i=0; i<animals.length;i++){
