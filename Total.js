@@ -2,7 +2,7 @@
 //set up the require statements
 
 var http = require('http');
-var dt = require('./myfirstmodule');
+
 var fs = require('fs');
 var url = require('url');
 var mysql = require('mysql');
