@@ -1,0 +1,29 @@
+{
+  "name": "sample_1",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "Total.js",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derobie/Project.git"
+  },
+  "keywords": [
+    "mysql",
+    "http",
+    "fs",
+    "url"
+  ],
+  "author": "Doug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derobie/Project/issues"
+  },
+  "homepage": "https://github.com/derobie/Project#readme"
+}
